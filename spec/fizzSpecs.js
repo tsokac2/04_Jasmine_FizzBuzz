@@ -9,6 +9,6 @@ describe("FizzBuzz", function (){
         it("FizzBuzz function should exist", function(){
             expect(FizzBuzz).toBeDefined();
         });
-        
+
     });
 });
